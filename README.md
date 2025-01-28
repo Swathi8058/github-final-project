@@ -12,3 +12,11 @@ Create a README.md file that explains the purpose of the project.
 Create a Code of Conduct markdown that explains how you want the community to behave and interact with each other.
 Create a Contribution Guidelines markdown that tells the community how to contribute.
 Commit the new files to the repository.
+
+#### A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+##### Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+##### Output
+   simple interest = p*t*r
